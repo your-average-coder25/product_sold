@@ -17,7 +17,7 @@
 ![Example of products report from backoffice](Images/Product_sold_example.png)
 - Each category needs to be expanded before the relevant popover can be scraped.
 - Each item has the number of times a specific modifier was chosen with that item.
-![Example of products popover from backoffice](Images/Popover_example.png)
+![Example of products popover from backoffice](Images/Popover_Example.png)
 
 ## Potential updates
 - Currently the output is everything between 2 dates. It could be useful to split the dates into multiple weeks that way the user can get an output of products sold across multiple weeks and can be easily analyzed. The user would no longer have to run the script multiple times to retrieve multiple weeks worth of data.
